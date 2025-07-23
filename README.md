@@ -1,4 +1,4 @@
 # Shape-Sketcher-GUI
 - Java GUI program to sketch a rectangle, triangle or circle given a location (coordinates), size, colour and fill type (outline or fill)
-
-- Download all source files to the same directory, then compile and run ShapeMaker.java
+- This program is intended to be run from an IDE.
+- Download all source files to the same directory, then open this directory in an IDE of your choice and run ShapeMaker.java
